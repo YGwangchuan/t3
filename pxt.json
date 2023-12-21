@@ -1,0 +1,14 @@
+{
+  "name": "TM1650",
+  "version": "1.2.0",
+  "description": "microbit最简测试2",
+  "license": "MIT",
+  "dependencies": {
+    "core": "*"
+  },
+  "files": [
+    "README.md",
+    "main.ts"
+  ],
+  "public": true
+}
